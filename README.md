@@ -1,3 +1,4 @@
+h1 Front-end Developer
 - 👋 Hi, I’m sally-choi
 - 👀 I’m interested in javascript, typescript, react, nodejs
 - 🌱 I’m currently learning Algorithm
